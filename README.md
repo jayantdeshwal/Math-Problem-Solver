@@ -17,20 +17,7 @@ It combines the reasoning ability of **LLMs (Large Language Models)** with the p
 
 ---
 
-## 🧩 Example Interactions
 
-```bash
-User: I have 5 bananas and 7 grapes. I eat 2 bananas and give away 3 grapes. 
-      Then I buy a dozen apples and 2 packs of blueberries (25 each). 
-      How many total pieces of fruit do I have?
-
-AI: You now have 69 pieces of fruit.
-
----
-
-User: What is the area of a square with one side length = 4 cm?
-
-AI: The area of the square is 16 square centimeters.
 
 🧰 Core Components
 🧩 1. LangChain
