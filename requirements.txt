@@ -7,3 +7,4 @@ validators
 tiktoken
 numexpr
 streamlit
+wikipedia
