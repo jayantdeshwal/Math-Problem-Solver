@@ -55,19 +55,6 @@ Tool(
 
 Manages conversation flow, reasoning, and tool usage automatically to generate clear answers.
 
-📦 Installation
-# 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/text-to-math-solver.git
-cd text-to-math-solver
-
-# 2️⃣ Install dependencies
-pip install -r requirements.txt
-
-# 3️⃣ Set your Groq API Key
-export GROQ_API_KEY="your_api_key_here"
-
-# 4️⃣ Run the project
-python app.py
 
 📁 Requirements
 
