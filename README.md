@@ -72,11 +72,11 @@ python-dotenv
 
 validators
 
-##🧑‍💻 Author
+🧑‍💻 Author
 Jayant Deshwal
 Department of Computer Science and Engineering
 Galgotias College of Engineering and Technology
 📧 jayant.deshwal.56@gmail.com
 
-##🪪 License
+🪪 License
 This project is open-source and distributed under the MIT License.
